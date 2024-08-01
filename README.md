@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋👋👋👋
+My Name's Bernard 😄<br/>
+Software development is a passion of mine😍<br/>
+Let's work together sometime 👯<br/>
+Kwaheri<br/>
+👋
 <!--
 **Bernard-Kariuki/Bernard-Kariuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
